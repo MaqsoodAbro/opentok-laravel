@@ -1,5 +1,5 @@
 {
-    "name": "maqsoodabro/opentok-laravel",
+    "name": "tomcorbett/opentok-laravel",
     "description": "A laravel bundle for the OpenTok PHP SDK",
     "keywords": ["opentok", "streaming", "video streaming"],
     "homepage": "https://github.com/tomcorbett/opentok-laravel",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MaqsoodAbro\\OpentokLaravel\\": "src/"
+            "tomcorbett\\OpentokLaravel\\": "src/"
         }
     },
     "minimum-stability": "dev"
